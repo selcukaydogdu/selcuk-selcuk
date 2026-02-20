@@ -8,6 +8,12 @@
 * 📈 Finansal piyasaların analizi ve veri görselleştirme konularında derinleşiyorum.
 * 💬 Benimle veri stratejileri veya Python projeleri hakkında konuşabilirsiniz.
 
+
+---
+
+### 🚀 Öne Çıkan Çalışmalarım
+* **[Python Learning Journey](https://github.com/selcukaydogdu/Python_Learning_Journey):** Temel Python yapılarından ileri seviye modüllere, SQLite veritabanı yönetiminden nesne tabanlı programlamaya kadar tüm teknik gelişim sürecimi kapsayan kapsamlı kod arşivim.
+  
 ---
 
 ### 🛠 Teknolojiler ve Araçlar
