@@ -1,4 +1,4 @@
-# selcuk-selcuk
+
 # Merhaba, Ben Selçuk! 👋
 
 ### 👨‍💻 Hakkımda
