@@ -11,8 +11,10 @@
 
 ---
 
+
 ### 🚀 Öne Çıkan Çalışmalarım
-* **[Python Learning Journey](https://github.com/selcukaydogdu/Python_Learning_Journey):** Temel Python yapılarından ileri seviye modüllere, SQLite veritabanı yönetiminden nesne tabanlı programlamaya kadar tüm teknik gelişim sürecimi kapsayan kapsamlı kod arşivim.
+* **[Python Learning Journey](https://github.com/selcukaydogdu/Python_Learning_Journey):** 2009'dan bu yana gelen iş disiplinimi Python'un derinlikleriyle (OOP, SQLite, Decorators) birleştirdiğim teknik arşivim.
+* **[Flask & Automation Projects](https://github.com/selcukaydogdu/Flask_Projects):** Flask ile web uygulama geliştirme ve Selenium ile karmaşık süreç otomasyonları (Web Scraping) üzerine yaptığım çalışmalar.
   
 ---
 
